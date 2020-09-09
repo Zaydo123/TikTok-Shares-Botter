@@ -1,8 +1,7 @@
-from time import strftime gmtime time sleep
+from time import strftime,time,sleep,gmtime
 import os
 import random
 import threading
-
 import requests
 
 
